@@ -1,0 +1,7 @@
+[package]
+name = "jeek"
+version = "0.1.0"
+authors = ["Victor Koenders <victor.koenders@gmail.com>"]
+
+[dependencies]
+num = "0.1"
